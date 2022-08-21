@@ -1,12 +1,13 @@
 # Mouse and Keyboard Control
 
-## ControlKeyboard script
+### ControlKeyboard script
+***Permite controlar el input del teclado desde el codigo
 
-***Este script permite controlar el input del teclado desde el codigo
-
-
-## ControlMouse script
-
+### ControlMouse script
 ***Permite manipular la posicion del mouse deacuerdo a coordenadas x,y
 
-##
+### Keylogger script
+***Permite registrar en un archivo de texto las teclas que pulsadas
+
+### MouseTracker Script
+***realiza un seguimiento de la posicion del mouse en pantalla
